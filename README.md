@@ -1,0 +1,1 @@
+This project is a PCB design for the UWSVT steering wheel. Car operates on CAN BUS, included are buttons such as turn singals, cruise crontrol, push-to-talk, and more. VUSB as well for quick debugging.
